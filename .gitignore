@@ -1,0 +1,35 @@
+# Exam materials (private)
+exams/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow/Keras model files
+*.h5
+*.hdf5
+
+# TensorBoard logs
+logs/
+**/logs/
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp

@@ -255,4 +255,3 @@ MLP GAN : Generative Adversarial Networks (GANs) are a type of neural network ar
 
     -The GAN architecture is used for generating new samples, such as images, text, and audio.
 
-    
